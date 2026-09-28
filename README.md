@@ -47,6 +47,9 @@ Built **Shiprocket Connect**, a consumer-first C2C shipping app enabling users t
 <img width="150" alt="1" src="https://github.com/user-attachments/assets/5365afcd-46e2-4e45-90e0-4d439ad699a5" />
 <img width="150" alt="Screenshot 1" src="https://github.com/user-attachments/assets/9c8f9375-de8f-4b26-8eda-370d8849a245" />
 <img width="150" alt="2" src="https://github.com/user-attachments/assets/de19a842-15a0-40a1-a720-763c63a2afb9" />
+<img width="150" alt="alt_orders_light" src="https://github.com/user-attachments/assets/89961123-c8c1-492e-a939-bb63605bc1fd" />
+<img width="150" alt="03_order_detail" src="https://github.com/user-attachments/assets/0c06ac54-aa41-452e-bc2a-c7a31dfabf2e" />
+<img width="150" alt="Screenshot_2026-08-06-11-47-38-80_07266640db02b5b7a3fdc555b61c39f9 (1)" src="https://github.com/user-attachments/assets/ff12fc24-888c-4c6f-9f76-b910151cb6ba" />
 <img width="150" alt="4" src="https://github.com/user-attachments/assets/7eede451-658f-48c4-af0b-d16b4a00579b" />
 
 
