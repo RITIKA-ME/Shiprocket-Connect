@@ -44,10 +44,12 @@ Built **Shiprocket Connect**, a consumer-first C2C shipping app enabling users t
 
 **OTP → Pickup → Destination → Product → Package → KYC → Payment → Pickup**
 
-<img width="150" alt="1" src="https://github.com/user-attachments/assets/5365afcd-46e2-4e45-90e0-4d439ad699a5"/>
-<img width="150" alt="Screenshot 1" src="https://github.com/user-attachments/assets/9c8f9375-de8f-4b26-8eda-370d8849a245"/>
-<img width="150" alt="2" src="https://github.com/user-attachments/assets/de19a842-15a0-40a1-a720-763c63a2afb9"/>
-<img width="150" alt="Screenshot 2" src="https://github.com/user-attachments/assets/5a3e1145-5a59-4c2b-9f35-3122aa019b2c"/>
+<img width="150" alt="1" src="https://github.com/user-attachments/assets/5365afcd-46e2-4e45-90e0-4d439ad699a5" />
+<img width="150" alt="Screenshot 1" src="https://github.com/user-attachments/assets/9c8f9375-de8f-4b26-8eda-370d8849a245" />
+<img width="150" alt="2" src="https://github.com/user-attachments/assets/de19a842-15a0-40a1-a720-763c63a2afb9" />
+<img width="1026" height="1533" alt="ChatGPT Image Sep 28, 2026, 03_05_47 PM" src="https://github.com/user-attachments/assets/7eede451-658f-48c4-af0b-d16b4a00579b" />
+
+
 
 
 ### My Role
